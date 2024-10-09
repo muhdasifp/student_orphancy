@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079680841754",
+    "project_id": "care-life-870c6",
+    "storage_bucket": "care-life-870c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079680841754:android:2689a1c0af969a8de439a3",
+        "android_client_info": {
+          "package_name": "com.atees.care_life"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAMD3NpHkv-uPRPOSQrclZh0SEP4URT1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
